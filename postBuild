@@ -1,1 +1,0 @@
-jupyter nbconvert --to notebook --execute cites_trade_df_v2.ipynb --output cites_trade_df_v2.ipynb
